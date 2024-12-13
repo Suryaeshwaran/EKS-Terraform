@@ -58,4 +58,5 @@ Wait 2-3 minutes for node join to complete, then
 kubectl get node -o wide
 ```
 You should see 3 worker nodes in ready state. Note that with EKS you do not see control plane nodes, as they are managed by AWS.
-4. 
+
+4. View the completed cluster in the EKS Console.
