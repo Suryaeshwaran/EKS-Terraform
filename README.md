@@ -1,2 +1,5 @@
 # EKS-Terraform
-AWS EKS on KodeKlode Playground
+Deploy an EKS cluster in the KodeKloud AWS Playground using Terraform.
+This terraform code will create an EKS cluster called demo-eks.
+
+**#Clone This Repo**
