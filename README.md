@@ -6,3 +6,10 @@ This terraform code will create an EKS cluster called demo-eks.
 
 `git clone https://github.com/Suryaeshwaran/EKS-Terraform.git`
 
+**Create EKS Cluster Via Terraform**
+
+```
+terraform init
+terraform plan
+terraform apply -auto-approve
+```
